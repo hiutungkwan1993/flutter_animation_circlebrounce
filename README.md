@@ -7,3 +7,4 @@ A new Flutter project.
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 # flutter_animation_circlebrounce
+![alt text](https://raw.githubusercontent.com/hiutungkwan1993/flutter_animation_circlebrounce/master/screenshot/screenshot.png)
